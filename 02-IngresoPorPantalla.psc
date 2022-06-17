@@ -5,6 +5,6 @@ Proceso IngresoPorPantalla
 	Escribir "Ingrese una cadena de caracteres";
 	Leer palabra;
 	
-	Escribir "La palabra ingresada es: ", palabra;
+	Escribir "La cadena ingresada es: ", palabra;
 	
 FinProceso
